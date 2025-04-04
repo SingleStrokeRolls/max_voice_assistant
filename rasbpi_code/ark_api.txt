@@ -1,1 +1,1 @@
-export ARK_API_KEY="b2dbde6f-3ee7-44c5-8f98-8b5932827c07"
+export ARK_API_KEY="Your ARK API Here!"
