@@ -7,9 +7,9 @@ import sender_client, receiver_client
 import os
 
 #Keys
-APP_ID = "116055145"
-API_KEY = "U5A8Q2peYEsvkQjjrh1zG0CF"
-SECRET_KEY = "kronV08kWvGwNpAZLVwcfhLQEUhHJkc5"
+APP_ID = "Your APP ID"
+API_KEY = "Your API Key"
+SECRET_KEY = "Your secret key"
 
 #clients
 text_client = Ark(
