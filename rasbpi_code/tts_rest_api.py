@@ -3,9 +3,9 @@
 '''YOUR APP API SECRET'''
 
 '''
-APP_ID = "116055145"
-API_KEY = "U5A8Q2peYEsvkQjjrh1zG0CF"
-SECRET_KEY = "kronV08kWvGwNpAZLVwcfhLQEUhHJkc5"
+APP_ID = "Your ID"
+API_KEY = "Your Key"
+SECRET_KEY = "Your key"
 
 client = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
 '''
