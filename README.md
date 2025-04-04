@@ -11,8 +11,8 @@ This project demonstrates the integration of **Raspberry Pi (RasPi)** and **ESP3
 
 ## Demo Videos
 
-1. [Video Demo 1](link-to-your-video-demo-1)
-2. [Video Demo 2](link-to-your-video-demo-2)
+1. [Video Demo 1](./vids/demo1.mp4)
+3. [Video Demo 2](./vids/demo2.mp4)
 
 ## Acknowledgments
 
