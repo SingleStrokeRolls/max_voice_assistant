@@ -12,12 +12,12 @@ This project demonstrates the integration of **Raspberry Pi (RasPi)** and **ESP3
 ## Demo Videos
 
 1. [Video Demo 1](https://drive.google.com/file/d/1WjQmF2AGGEIwiRlfU6obI82BktZXoJsd/view?usp=sharing)
-3. [Video Demo 2](./vids/demo2.mp4)
+3. [Video Demo 2](https://drive.google.com/file/d/1p5u4IHKpFOUVRllD4YTzgd_EHKCl-Pt8/view?usp=sharing)
 
 ## Acknowledgments
 
 - **Baidu** and **Volcengine** for their text-to-speech ARKs.
-- **MicroPython** for providing an easy-to-use platform for programming the ESP32.
+- **Recorder_mod.py** The code for converting producing a .wav header is from another github repo that I could no longer find... Please let me know if I use your code.
 
 ---
 
